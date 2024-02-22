@@ -1,9 +1,5 @@
 /*
- *        Class: IT-516 - Data Structures & Algorithms
- *   Instructor: Sean Harrington
- *         Date: DD MM YYYY
- *      Student: GD02
- *   Assignment: Treasure Hunt Game
+ *   Treasure Hunt Game
  *
  *   Compile: javac-algs4 TreasureHuntStart.java
  *
